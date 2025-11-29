@@ -21,7 +21,7 @@
       />
     </transition>
     <div class="content">
-      <!-- 可在此处自定义任意内容 -->
+      <!-- 2025.11.29获取了新域名，在vercel上建立站点 -->
       <TimeCapsule />
       <MoreContent />
     </div>
